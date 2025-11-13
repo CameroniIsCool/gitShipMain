@@ -1,7 +1,7 @@
 // Here's where we'll put all the variables to mess with
 
 //crew roster
-String pilot = "Camron";
+String pilot = "Cameron";
 String copilot = "";
 
 //spacecraft controls
